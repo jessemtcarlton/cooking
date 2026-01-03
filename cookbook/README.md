@@ -36,7 +36,60 @@ Every recipe in this book includes **CRITICAL WARNINGS** marked with 🚨. These
 
 ---
 
+## 📚 START HERE: New to Cooking?
+
+**[Fundamentals - For Dummies](./Fundamentals/README.md)** ⭐ **READ THIS FIRST**
+
+Learn the WHY behind cooking, not just the HOW:
+- Temperature control and carryover cooking
+- The Five Mother Sauces (Béchamel, Velouté, Espagnole, Hollandaise, Tomato)
+- Essential techniques (roux, deglazing, emulsions, reductions)
+- Stocks and broths from scratch
+- Seasoning principles
+- Understanding heat and the Maillard reaction
+
+**This foundation makes EVERY recipe easier to understand and execute.**
+
+---
+
+## 🏆 Top 20 Restaurant-Quality Meals
+
+These are the most impressive, most commonly ordered, and trickiest-to-perfect dishes. Master these and you'll cook better than most restaurants.
+
+| Meal | Difficulty | Time | Critical Skill |
+|------|------------|------|----------------|
+| **1. [1.5" Steak (5 methods)](./Proteins/Beef/Steak-1.5-Inch/)** | Medium | 30-60 min | Carryover cooking, thermometer use |
+| **2. [Perfect Chicken Breast](./Proteins/Chicken/Breasts/Pan-Seared-Perfect.md)** | Medium | 25 min | Brining, even thickness, 160°F pull |
+| **3. [Whole Roast Chicken](./Proteins/Chicken/Whole-Roasted/Classic-Roast-Chicken.md)** | Medium | 90 min | Dual temps (breast/thigh), trussing |
+| **4. [Pan-Seared Scallops](./Seafood/Shellfish/Scallops/Pan-Seared.md)** | Advanced | 8 min | 90-second window, dry scallops |
+| **5. [Pan-Seared Salmon](./Seafood/Fish/Salmon/Pan-Seared.md)** | Medium | 15 min | Crispy skin, 120°F pull |
+| **6. [Butter-Poached Lobster Tail](./Seafood/Shellfish/Lobster-Tail/Butter-Poached.md)** | Medium | 15 min | 140°F perfect temp, butter temp control |
+| **7. [Perfect Pork Chops](./Proteins/Pork/Pork-Chops/Pan-Seared-Perfect.md)** | Medium | 20 min | 145°F is safe (not 160°F!), brining |
+| **8. [Herb-Crusted Rack of Lamb](./Proteins/Lamb/Rack-of-Lamb/Herb-Crusted.md)** | Advanced | 40 min | Expensive ($$$), 125°F pull, herb crust timing |
+| **9. [Classic Risotto](./Sides/Grains/Risotto/Classic-Parmesan.md)** | Advanced | 30 min | Constant stirring, gradual liquid, al dente |
+| **10. [Béarnaise Sauce](./Sauces-and-Condiments/Pan-Sauces/Bearnaise.md)** | Advanced | 20 min | Temperature control, emulsion, no scrambling |
+| **11. [Chocolate Soufflé](./Baking/Desserts/Souffle/Chocolate-Souffle.md)** | Advanced | 30 min | Egg whites, timing, serve immediately |
+| **12. [Crème Brûlée](./Baking/Desserts/Creme-Brulee/Classic.md)** | Medium | 4+ hours | Water bath, torch technique, patience |
+| **13. [Béchamel Sauce](./Fundamentals/Mother-Sauces/Bechamel.md)** | Beginner | 20 min | Roux, no lumps, foundation of cream sauces |
+| **14. [Chicken Stock](./Fundamentals/Stocks-and-Broths/Chicken-Stock.md)** | Beginner | 4 hours | Gentle simmer (no boiling), skimming |
+| **15. [Mashed Potatoes](./Sides/Potatoes/Mashed/Classic.md)** | Medium | 30 min | Potato type, hot dairy, no overmixing |
+| **16. [Hasselback Potatoes](./Sides/Potatoes/Hasselback/Oven-Roasted.md)** | Medium | 75 min | Chopstick trick, butter basting |
+| **17. [Pan-Roasted Brussels Sprouts](./Sides/Vegetables/Brussels-Sprouts/Pan-Roasted.md)** | Medium | 20 min | High heat, garlic timing, caramelization |
+| **18. [Red Wine Pan Sauce](./Sauces-and-Condiments/Pan-Sauces/Red-Wine-Reduction.md)** | Medium | 15 min | Deglazing, reduction, butter mounting |
+| **19. [Chimichurri](./Sauces-and-Condiments/Pan-Sauces/Chimichurri.md)** | Beginner | 10 min | Make ahead, flavor balance, no blending |
+| **20. [Garlic Herb Compound Butter](./Sauces-and-Condiments/Compound-Butters/Garlic-Herb.md)** | Beginner | 10 min | Butter softening, make ahead, freeze |
+
+---
+
 ## Table of Contents
+
+### 0. **[Fundamentals - For Dummies](./Fundamentals/README.md)** ⭐ START HERE
+- [Temperature Control](./Fundamentals/README.md#temperature-control)
+- [The Five Mother Sauces](./Fundamentals/README.md#the-five-mother-sauces)
+- [Essential Techniques](./Fundamentals/README.md#essential-techniques)
+- [Stocks and Broths](./Fundamentals/Stocks-and-Broths/)
+- [Seasoning Principles](./Fundamentals/README.md#seasoning-principles)
+- [Understanding Heat](./Fundamentals/README.md#understanding-heat)
 
 ### 1. [Proteins](#proteins)
 - [Beef](#beef)
@@ -81,6 +134,52 @@ Every recipe in this book includes **CRITICAL WARNINGS** marked with 🚨. These
 - Sides: Hasselback Potatoes, Mashed Potatoes, Asparagus, Brussels Sprouts
 - Sauces: Any compound butter, Red Wine Sauce, Chimichurri, Béarnaise
 
+### Chicken
+
+#### Perfect Pan-Seared Chicken Breast
+> **Critical Skill**: Brining, pounding to even thickness, pulling at 160°F (not 165°F)
+
+- **[Pan-Seared Perfect](./Proteins/Chicken/Breasts/Pan-Seared-Perfect.md)** - Brined, juicy, golden crust
+
+**Why It's Tricky**: Most commonly overcooked protein. Solution: Brine + pull at 160°F + rest to 165°F
+
+#### Whole Roasted Chicken
+> **Critical Skill**: Dual temperatures (breast 165°F, thigh 175°F), trussing, air-drying skin
+
+- **[Classic Roast Chicken](./Proteins/Chicken/Whole-Roasted/Classic-Roast-Chicken.md)** - Crispy skin, juicy meat
+
+**Test of a Cook**: If you can roast a perfect chicken, you understand temperature control.
+
+**Recommended Pairings**:
+- Sides: Mashed Potatoes, Roasted Vegetables, Brussels Sprouts
+- Sauces: Pan Gravy, Herb Butter, Lemon Pan Sauce
+
+### Pork
+
+#### Perfect Pork Chops
+> **Critical Skill**: Understanding 145°F is SAFE (not 160°F), brining mandatory
+
+- **[Pan-Seared Perfect](./Proteins/Pork/Pork-Chops/Pan-Seared-Perfect.md)** - Brined, 145°F, juicy with pink center
+
+**Game Changer**: USDA updated safe temp to 145°F in 2011. Old guidelines (160°F) make dry pork.
+
+**Recommended Pairings**:
+- Sides: Mashed Potatoes, Roasted Apples, Green Beans
+- Sauces: Apple-Sage, Mustard Cream, Garlic Herb Butter
+
+### Lamb
+
+#### Herb-Crusted Rack of Lamb
+> **Critical Skill**: Expensive protein, must use thermometer, sear first then crust
+
+- **[Herb-Crusted Rack](./Proteins/Lamb/Rack-of-Lamb/Herb-Crusted.md)** - Special occasion, pull at 125°F for 130-135°F medium-rare
+
+**Why It's Expensive**: $25-40 per rack. No room for error. Use thermometer.
+
+**Recommended Pairings**:
+- Sides: Mashed Potatoes, Roasted Asparagus, Root Vegetables
+- Sauces: Red Wine Reduction, Mint Sauce, Port Wine Reduction
+
 ---
 
 ## Seafood
@@ -106,6 +205,17 @@ Every recipe in this book includes **CRITICAL WARNINGS** marked with 🚨. These
 **Recommended Pairings**:
 - Sides: Risotto, Mashed Potatoes, Roasted Asparagus
 - Sauces: Beurre Blanc, Brown Butter
+
+#### Lobster Tail
+> **Critical Skill**: Butter temperature control (160-180°F), pulling at 140°F, timing (6-10 min)
+
+- **[Butter-Poached Lobster Tail](./Seafood/Shellfish/Lobster-Tail/Butter-Poached.md)** - Foolproof luxury, tender and rich
+
+**Why Butter Poaching Wins**: Nearly impossible to overcook vs boiling/grilling. Restaurant secret.
+
+**Recommended Pairings**:
+- Sides: Mashed Potatoes, Roasted Asparagus, Corn on the Cob
+- Sauces: Drawn butter (from poaching), Lemon-herb butter
 
 ---
 
@@ -140,6 +250,19 @@ Every recipe in this book includes **CRITICAL WARNINGS** marked with 🚨. These
 - **[Pan-Roasted Brussels Sprouts](./Sides/Vegetables/Brussels-Sprouts/Pan-Roasted.md)** - Crispy, caramelized
 
 **Pairs With**: Beef, pork, chicken
+
+### Grains
+
+#### Classic Risotto
+> **Critical Skill**: Constant stirring, gradual liquid addition, al dente rice, all'onda consistency
+
+- **[Classic Parmesan Risotto](./Sides/Grains/Risotto/Classic-Parmesan.md)** - 20-22 minutes of attention, worth every second
+
+**Why It's Tricky**: Requires constant stirring, perfect timing, must be served immediately. But incredibly impressive.
+
+**Test of Technique**: If you can make perfect risotto, you understand patience and technique.
+
+**Pairs With**: Osso buco, scallops, roasted chicken, or as a main with salad
 
 ---
 
