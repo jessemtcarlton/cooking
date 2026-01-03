@@ -81,6 +81,31 @@ These are the most impressive, most commonly ordered, and trickiest-to-perfect d
 
 ---
 
+## 🌟 Famous Restaurant Copycat Recipes
+
+Replicate signature dishes from America's top restaurants and chains at home. Save 50-75% while mastering the exact flavors and techniques.
+
+### Iconic Breads
+- **[Red Lobster Cheddar Bay Biscuits](./Restaurant-Copycat/Breads/Red-Lobster-Cheddar-Bay-Biscuits.md)** - The #1 most requested copycat recipe
+- **[Texas Roadhouse Honey Butter Rolls](./Restaurant-Copycat/Breads/Texas-Roadhouse-Rolls.md)** - With legendary cinnamon honey butter
+- **[Olive Garden Breadsticks](./Restaurant-Copycat/Breads/Olive-Garden-Breadsticks.md)** - Unlimited garlic butter breadsticks
+
+### Steakhouse Signatures
+- **[Ruth's Chris Sizzling Steak](./Restaurant-Copycat/Steakhouses/Ruths-Chris-Sizzling-Steak.md)** - 500°F plate, butter sizzle, USDA Prime
+
+### Appetizers
+- **[Outback Bloomin' Onion](./Restaurant-Copycat/Appetizers/Outback-Bloomin-Onion.md)** - With tangy Bloom Sauce
+
+### Desserts
+- **[Cheesecake Factory Original Cheesecake](./Restaurant-Copycat/Desserts/Cheesecake-Factory-Original-Cheesecake.md)** - The gold standard
+
+### Universal Restaurant Sides
+- **[Restaurant-Style Rice Pilaf](./Restaurant-Copycat/Sides/Restaurant-Style-Rice-Pilaf.md)** - Every steakhouse's secret
+
+**Cost Savings**: Make restaurant favorites at home for 25-50% of the cost. Perfect replicas of the originals.
+
+---
+
 ## Table of Contents
 
 ### 0. **[Fundamentals - For Dummies](./Fundamentals/README.md)** ⭐ START HERE
@@ -91,26 +116,33 @@ These are the most impressive, most commonly ordered, and trickiest-to-perfect d
 - [Seasoning Principles](./Fundamentals/README.md#seasoning-principles)
 - [Understanding Heat](./Fundamentals/README.md#understanding-heat)
 
-### 1. [Proteins](#proteins)
+### 1. **[🌟 Restaurant Copycat Recipes](#-famous-restaurant-copycat-recipes)**
+- [Iconic Breads](#iconic-breads)
+- [Steakhouse Signatures](#steakhouse-signatures)
+- [Appetizers](#appetizers)
+- [Desserts](#desserts)
+- [Universal Sides](#universal-restaurant-sides)
+
+### 2. [Proteins](#proteins)
 - [Beef](#beef)
 - [Pork](#pork)
 - [Chicken](#chicken)
 - [Lamb](#lamb)
 
-### 2. [Seafood](#seafood)
+### 3. [Seafood](#seafood)
 - [Fish](#fish)
 - [Shellfish](#shellfish)
 
-### 3. [Sides](#sides)
+### 4. [Sides](#sides)
 - [Potatoes](#potatoes)
 - [Vegetables](#vegetables)
 - [Grains](#grains)
 
-### 4. [Sauces & Condiments](#sauces--condiments)
+### 5. [Sauces & Condiments](#sauces--condiments)
 - [Pan Sauces](#pan-sauces)
 - [Compound Butters](#compound-butters)
 
-### 5. [Baking](#baking)
+### 6. [Baking](#baking)
 - [Breads](#breads)
 - [Pastries](#pastries)
 - [Desserts](#desserts)
