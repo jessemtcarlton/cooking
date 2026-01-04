@@ -126,6 +126,61 @@ Replicate signature dishes from America's top restaurants and chains at home. Sa
 
 ---
 
+## 🍁 Canadian Restaurant Copycat Recipes
+
+Recreate iconic Canadian restaurant dishes and fast food favorites at home. From Tim Hortons donuts to Swiss Chalet chicken, poutine to Harvey's burgers - **23 legendary Canadian recipes** with authentic flavors and massive savings. All costs in CAD.
+
+### Tim Hortons (8 recipes)
+Canada's coffee and donut institution since 1964. The double-double, Timbits, and donuts that define Canadian mornings.
+
+- **[Classic Glazed Donuts](./Restaurant-Copycat/Canadian/Tim-Hortons-Classic-Glazed-Donuts.md)** - The foundation, soft and sweet ($0.25 vs $1.29-1.49)
+- **[Honey Cruller](./Restaurant-Copycat/Canadian/Tim-Hortons-Honey-Cruller.md)** - Choux pastry twisted rope, ultra-light
+- **[Timbits (4 varieties)](./Restaurant-Copycat/Canadian/Tim-Hortons-Timbits.md)** - Chocolate Glazed, Honey Dip, Old Fashioned, Sour Cream ($0.10 vs $0.25-0.30 each)
+- **[Maple Dip Donut](./Restaurant-Copycat/Canadian/Tim-Hortons-Maple-Dip-Donut.md)** - The most Canadian donut
+- **[Apple Fritter](./Restaurant-Copycat/Canadian/Tim-Hortons-Apple-Fritter.md)** - More apple than donut, irregular hand-formed
+- **[Boston Cream Donut](./Restaurant-Copycat/Canadian/Tim-Hortons-Boston-Cream-Donut.md)** - Vanilla custard filling, chocolate glaze
+- **[Iced Capp](./Restaurant-Copycat/Canadian/Tim-Hortons-Iced-Capp.md)** - Frozen coffee drink ($1 vs $4.49)
+- **[Chili](./Restaurant-Copycat/Canadian/Tim-Hortons-Chili.md)** - Bean and beef based, surprisingly good
+
+### Swiss Chalet (3 recipes)
+Canada's rotisserie chicken specialist since 1954. Famous for Chalet sauce - the most requested Canadian recipe.
+
+- **[Chalet Sauce](./Restaurant-Copycat/Canadian/Swiss-Chalet-Sauce.md)** ⭐ THE most requested Canadian copycat - Smooth gravy perfection
+- **[Rotisserie Chicken](./Restaurant-Copycat/Canadian/Swiss-Chalet-Rotisserie-Chicken.md)** - Herb-seasoned, slow-roasted ($2-2.50 per serving vs $12-15)
+- **[Dinner Roll](./Restaurant-Copycat/Canadian/Swiss-Chalet-Dinner-Roll.md)** - Soft, slightly sweet, perfect for soaking sauce
+
+### Poutine (3 recipes)
+Quebec's gift to Canada - fries, cheese curds, gravy. The national dish.
+
+- **[Traditional Quebec Poutine](./Restaurant-Copycat/Canadian/Traditional-Quebec-Poutine.md)** - Authentic recipe, fresh squeaky curds mandatory
+- **[Smoke's Poutinerie Classic](./Restaurant-Copycat/Canadian/Smokes-Poutinerie-Classic-Poutine.md)** - Gourmet poutine from Toronto's famous chain ($1.50 vs $8-12)
+- **[New York Fries Poutine](./Restaurant-Copycat/Canadian/New-York-Fries-Poutine.md)** - Mall food court classic with vegetarian gravy ($1.67 vs $7-10)
+
+### A&W Canada (3 recipes)
+Independently owned since 1972. Different from American A&W - uniquely Canadian menu.
+
+- **[Teen Burger](./Restaurant-Copycat/Canadian/AW-Canada-Teen-Burger.md)** - Only in Canada, Teen Sauce is the secret
+- **[Onion Rings](./Restaurant-Copycat/Canadian/AW-Canada-Onion-Rings.md)** - Thick-cut, double-dredged, crispy battered
+- **[Root Beer Float](./Restaurant-Copycat/Canadian/AW-Canada-Root-Beer-Float.md)** - Famous root beer made fresh daily, frozen mug essential
+
+### The Keg Steakhouse (2 recipes)
+Canadian steakhouse chain known for atmosphere and signature dishes.
+
+- **[Garlic Cheese Bread](./Restaurant-Copycat/Canadian/The-Keg-Garlic-Cheese-Bread.md)** - Legendary appetizer, three cheese blend
+- **[Billy Miner Pie](./Restaurant-Copycat/Canadian/The-Keg-Billy-Miner-Pie.md)** - Coffee ice cream pie with Oreo crust, named after Canadian outlaw ($1.20-1.50 per slice vs $9-11)
+
+### Other Canadian Classics (4 recipes)
+Regional favorites and nationwide chains that define Canadian dining.
+
+- **[Harvey's "Beautiful Burger"](./Restaurant-Copycat/Canadian/Harveys-Beautiful-Burger.md)** - Customizable toppings bar, flame-grilled ($2.50 vs $8-10)
+- **[St-Hubert BBQ Sauce](./Restaurant-Copycat/Canadian/St-Hubert-BBQ-Sauce.md)** - Quebec's legendary BBQ sauce, vinegar-forward ($2 for 2 cups vs $5-6)
+- **[Mary Brown's Fried Chicken & Taters](./Restaurant-Copycat/Canadian/Mary-Browns-Fried-Chicken-And-Taters.md)** - Atlantic Canada favorite, double dredge method
+- **[Boston Pizza Cactus Cut Potatoes](./Restaurant-Copycat/Canadian/Boston-Pizza-Cactus-Cut-Potatoes.md)** - Addictive spiral fries ($4 vs $9-12)
+
+**Canadian Classics**: Recreate the flavors of Canadian food nostalgia. Tim Hortons mornings, Swiss Chalet family dinners, late-night poutine runs, Harvey's toppings bar memories. Save 50-75% and taste exactly like the real thing.
+
+---
+
 ## Table of Contents
 
 ### 0. **[Fundamentals - For Dummies](./Fundamentals/README.md)** ⭐ START HERE
@@ -142,6 +197,14 @@ Replicate signature dishes from America's top restaurants and chains at home. Sa
 - [Appetizers](#appetizers)
 - [Desserts](#desserts)
 - [Universal Sides](#universal-restaurant-sides)
+
+### 1b. **[🍁 Canadian Restaurant Copycat Recipes](#-canadian-restaurant-copycat-recipes)**
+- [Tim Hortons (8 recipes)](#tim-hortons-8-recipes)
+- [Swiss Chalet (3 recipes)](#swiss-chalet-3-recipes)
+- [Poutine (3 recipes)](#poutine-3-recipes)
+- [A&W Canada (3 recipes)](#aw-canada-3-recipes)
+- [The Keg Steakhouse (2 recipes)](#the-keg-steakhouse-2-recipes)
+- [Other Canadian Classics (4 recipes)](#other-canadian-classics-4-recipes)
 
 ### 2. [Proteins](#proteins)
 - [Beef](#beef)
