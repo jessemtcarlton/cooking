@@ -83,26 +83,46 @@ These are the most impressive, most commonly ordered, and trickiest-to-perfect d
 
 ## 🌟 Famous Restaurant Copycat Recipes
 
-Replicate signature dishes from America's top restaurants and chains at home. Save 50-75% while mastering the exact flavors and techniques.
+Replicate signature dishes from America's top restaurants and chains at home. Save 50-75% while mastering the exact flavors and techniques. **20 iconic recipes** from the most beloved restaurants.
 
-### Iconic Breads
+### Iconic Breads (6 recipes)
 - **[Red Lobster Cheddar Bay Biscuits](./Restaurant-Copycat/Breads/Red-Lobster-Cheddar-Bay-Biscuits.md)** - The #1 most requested copycat recipe
 - **[Texas Roadhouse Honey Butter Rolls](./Restaurant-Copycat/Breads/Texas-Roadhouse-Rolls.md)** - With legendary cinnamon honey butter
 - **[Olive Garden Breadsticks](./Restaurant-Copycat/Breads/Olive-Garden-Breadsticks.md)** - Unlimited garlic butter breadsticks
+- **[Cracker Barrel Buttermilk Biscuits](./Restaurant-Copycat/Breads/Cracker-Barrel-Buttermilk-Biscuits.md)** - Tall, fluffy Southern classic
+- **[Longhorn Steakhouse Honey Wheat Bread](./Restaurant-Copycat/Breads/Longhorn-Honey-Wheat-Bread.md)** - Sweet wheat bread with honey butter
+- **[Cheesecake Factory Brown Bread](./Restaurant-Copycat/Breads/Cheesecake-Factory-Brown-Bread.md)** - Iconic cocoa-colored bread
 
-### Steakhouse Signatures
-- **[Ruth's Chris Sizzling Steak](./Restaurant-Copycat/Steakhouses/Ruths-Chris-Sizzling-Steak.md)** - 500°F plate, butter sizzle, USDA Prime
-
-### Appetizers
+### Appetizers (7 recipes)
 - **[Outback Bloomin' Onion](./Restaurant-Copycat/Appetizers/Outback-Bloomin-Onion.md)** - With tangy Bloom Sauce
+- **[P.F. Chang's Chicken Lettuce Wraps](./Restaurant-Copycat/Appetizers/PF-Changs-Lettuce-Wraps.md)** - Interactive, hand-minced chicken
+- **[TGI Friday's Mozzarella Sticks](./Restaurant-Copycat/Appetizers/TGI-Fridays-Mozzarella-Sticks.md)** - Crispy, double-breaded perfection
+- **[Chili's Texas Cheese Fries](./Restaurant-Copycat/Appetizers/Chilis-Texas-Cheese-Fries.md)** - Loaded steak fries with cheese sauce
+- **[Buffalo Wild Wings Boneless Wings](./Restaurant-Copycat/Appetizers/Buffalo-Wild-Wings-Boneless-Wings.md)** - 5 signature sauces included
+- **[Cheesecake Factory Avocado Egg Rolls](./Restaurant-Copycat/Appetizers/Cheesecake-Factory-Avocado-Egg-Rolls.md)** - With tamarind-cashew sauce
+- **[Applebee's Spinach & Artichoke Dip](./Restaurant-Copycat/Appetizers/Applebees-Spinach-Artichoke-Dip.md)** - Creamy, cheesy classic
 
-### Desserts
-- **[Cheesecake Factory Original Cheesecake](./Restaurant-Copycat/Desserts/Cheesecake-Factory-Original-Cheesecake.md)** - The gold standard
+### Main Dishes (6 recipes)
+- **[Ruth's Chris Sizzling Steak](./Restaurant-Copycat/Steakhouses/Ruths-Chris-Sizzling-Steak.md)** - 500°F plate, butter sizzle, USDA Prime
+- **[Olive Garden Chicken Alfredo](./Restaurant-Copycat/Main-Dishes/Olive-Garden-Chicken-Alfredo.md)** - Creamy Parmesan sauce perfection
+- **[Chipotle Carnitas](./Restaurant-Copycat/Main-Dishes/Chipotle-Carnitas.md)** - Braised pork with crispy edges
+- **[KFC Original Recipe Fried Chicken](./Restaurant-Copycat/Main-Dishes/KFC-Original-Recipe-Fried-Chicken.md)** - 11 herbs and spices decoded
+- **[In-N-Out Animal Style Burger](./Restaurant-Copycat/Main-Dishes/In-N-Out-Animal-Style-Burger.md)** - Caramelized onions, grilled mustard
+- **[Maggiano's Rigatoni "D"](./Restaurant-Copycat/Main-Dishes/Maggianos-Rigatoni-D.md)** - Spicy sausage, creamy tomato sauce (secret menu)
 
-### Universal Restaurant Sides
+### Sides (4 recipes)
 - **[Restaurant-Style Rice Pilaf](./Restaurant-Copycat/Sides/Restaurant-Style-Rice-Pilaf.md)** - Every steakhouse's secret
+- **[KFC Coleslaw](./Restaurant-Copycat/Sides/KFC-Coleslaw.md)** - Creamy, tangy, finely chopped
+- **[Cracker Barrel Mac and Cheese](./Restaurant-Copycat/Sides/Cracker-Barrel-Mac-and-Cheese.md)** - Colby cheese is the secret
+- **[Boston Market Creamed Spinach](./Restaurant-Copycat/Sides/Boston-Market-Creamed-Spinach.md)** - Rich, garlicky perfection
 
-**Cost Savings**: Make restaurant favorites at home for 25-50% of the cost. Perfect replicas of the originals.
+### Desserts (4 recipes)
+- **[Cheesecake Factory Original Cheesecake](./Restaurant-Copycat/Desserts/Cheesecake-Factory-Original-Cheesecake.md)** - The gold standard
+- **[Chili's Molten Chocolate Cake](./Restaurant-Copycat/Desserts/Chilis-Molten-Chocolate-Cake.md)** - Gooey lava center
+- **[Olive Garden Tiramisu](./Restaurant-Copycat/Desserts/Olive-Garden-Tiramisu.md)** - Classic Italian layers
+- **[Applebee's Triple Chocolate Meltdown](./Restaurant-Copycat/Desserts/Applebees-Triple-Chocolate-Meltdown.md)** - Triple chocolate with fudge center
+
+**Cost Savings**: Make restaurant favorites at home for 25-50% of the cost. Perfect replicas with detailed instructions, cost comparisons, and restaurant secrets revealed.
 
 ---
 
